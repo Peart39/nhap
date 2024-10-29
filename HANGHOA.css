@@ -5,7 +5,7 @@
     display: inline-block;
     margin: 5px;
 }
-.hh-box:hover{border-radius: 10px; box-shadow: 0 0 7px red;}
+.hh-box:hover{border-radius: 10px; box-shadow: 0 0 7px blue;}
 .hh-box-img{width: 150px;}
 .hh-box-icon{width: 50px; position: absolute; right: 0; top: 0;}
 .hh-box-price
@@ -28,3 +28,4 @@
     cursor: pointer;
     border: 0px;
 }
+.hh-box-name{left: 40px; width: 120px; text-align: center; position: absolute;}
